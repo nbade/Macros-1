@@ -91,3 +91,5 @@ Sub Test()
     Selection.WholeStory
     Selection.ParagraphFormat.Alignment = wdAlignParagraphJustify
 End Sub
+
+'testing'
